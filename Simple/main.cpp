@@ -8,6 +8,7 @@ int main()
     cout << "2. Pengurangan" "\n";
     cout << "3. Perkalian" "\n";
     cout << "4. Pembagian" "\n";
+    cout << "5. Pangkat" "\n";
     cout << "Silahkan Pilih Operasi : ";
     cin >> op;
     cout << "Masukkan Kedua Angka: ";
