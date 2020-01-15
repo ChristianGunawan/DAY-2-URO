@@ -7,8 +7,8 @@ Tugas URO Day 2
 3. Steven Nataniel
 
 ## Features
-[ ] Addition
-[ ] Reduction
-[ ] Multiplication
-[ ] Division
-[ ] Polynomial Derivatives
+- [ ] Addition
+- [ ] Reduction
+- [ ] Multiplication
+- [ ] Division
+- [ ] Polynomial Derivatives
