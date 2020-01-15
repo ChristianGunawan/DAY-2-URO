@@ -8,17 +8,18 @@ Tugas URO Day 2
 
 ## Features 
 1. Simple Calculator
-Process only 2 number.
-- Addition
-- Reduction
-- Multiplication
-- Division
+  Process only 2 number.
+  - Addition
+  - Reduction
+  - Multiplication
+  - Division
 2. Complex Calculator
-Process bunch of numbers.
-- Addition
-- Reduction
-- Multiplication
-- Division
-- Power
+  Process bunch of numbers.
+  - Addition
+  - Reduction
+  - Multiplication
+  - Division
+  - Power
 3. Polynomial Derivatives Calculator
-- Polynomial Derivatives
+  - Polynomial Derivates that return the derivatives function
+  - Polynomial Derivatives with specified x
