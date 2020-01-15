@@ -8,8 +8,8 @@ Tugas URO Day 2
 
 ## Features 
 1. Simple Calculator (Process 2 numbers)
-  - Addition
-  - Reduction
+> - Addition
+> - Reduction
   - Multiplication
   - Division
 2. Complex Calculator (Process bunch numbers)
