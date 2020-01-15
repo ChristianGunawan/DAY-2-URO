@@ -6,9 +6,19 @@ Tugas URO Day 2
 2. Sidartha Prastya
 3. Steven Nataniel
 
-## Features
-- [ ] Addition
-- [ ] Reduction
-- [ ] Multiplication
-- [ ] Division
-- [ ] Polynomial Derivatives
+## Features 
+1. Simple Calculator
+Process only 2 number.
+- Addition
+- Reduction
+- Multiplication
+- Division
+2. Complex Calculator
+Process bunch of numbers.
+- Addition
+- Reduction
+- Multiplication
+- Division
+- Power
+3. Polynomial Derivatives Calculator
+- Polynomial Derivatives
