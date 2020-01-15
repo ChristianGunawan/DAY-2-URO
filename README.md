@@ -12,7 +12,8 @@ Tugas URO Day 2
 > - Addition
 > - Reduction
 > - Multiplication
->  - Division
+> - Division
+> - Power
 2. Complex Calculator
 > Calculate bunch of numbers.
 >  - Addition
