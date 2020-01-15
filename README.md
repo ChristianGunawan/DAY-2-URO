@@ -7,17 +7,19 @@ Tugas URO Day 2
 3. Steven Nataniel
 
 ## Features 
-1. Simple Calculator (Process 2 numbers)
+1. Simple Calculator
+> Process 2 numbers.
 > - Addition
 > - Reduction
-  - Multiplication
-  - Division
-2. Complex Calculator (Process bunch numbers)
-  - Addition
-  - Reduction
-  - Multiplication
-  - Division
-  - Power
+> - Multiplication
+>  - Division
+2. Complex Calculator
+> Calculate bunch of numbers.
+>  - Addition
+>  - Reduction
+>  - Multiplication
+>  - Division
+>  - Power
 3. Polynomial Derivatives Calculator
-  - Polynomial Derivates that return the derivatives function
-  - Polynomial Derivatives with specified x
+>  - Polynomial Derivates that return the derivatives function
+>  - Polynomial Derivatives with specified x
