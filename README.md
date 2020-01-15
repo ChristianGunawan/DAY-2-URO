@@ -21,5 +21,5 @@ Tugas URO Day 2
 >  - Division
 >  - Power
 3. Polynomial Derivatives Calculator
->  - Polynomial Derivates that return the derivatives function
->  - Polynomial Derivatives with specified x
+>  - Return the derivatives function
+>  - Return the result in number with specified x
