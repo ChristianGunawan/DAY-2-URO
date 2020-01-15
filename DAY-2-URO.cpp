@@ -26,9 +26,12 @@ int main()
         case '4':
             cout << num1/num2;
             break;
+        case '5':
+            cout << pow(num1,num2);
+            break;
         default:
-            // If the operator is other than +, -, * or /, error message is shown
             cout << "Kode Salah, Silahkan Ulang Kembali !";
+            main();
             break;
     }
     return 0;
