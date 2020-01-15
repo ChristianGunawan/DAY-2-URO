@@ -51,7 +51,7 @@ int main()
 	        	cout << pow(num1,num2) << endl << endl;
 	        	break;
 	        case '6':
-	        	int n,i,j,k,l;
+	        	int n,i;
 	        	int hasil;
 	        	int var[100];
 	        	int pangkat[100];
@@ -62,18 +62,18 @@ int main()
 	        	for(i=0;i<n;i++){
 	        		cout << "Masukkan elemen ke-" << i+1 <<": ";
 	        		cin >> var[i];}
-	        	for(j=0;j<n;j++){
-	        		cout << "Masukkan pangkat elemen ke-" << j+1 <<": ";
-	        		cin >>pangkat[j];}
-	        	for(k=0;k<n;k++){
-	        		cout << "Masukkan operasi elemen ke-" << k+1 <<" (+/-): ";
-	        		cin >>tanda[k];}
+	        	for(i=0;i<n;i++){
+	        		cout << "Masukkan pangkat elemen ke-" << i+1 <<": ";
+	        		cin >>pangkat[i];}
+	        	for(i=0;i<n;i++){
+	        		cout << "Masukkan operasi elemen ke-" << i+1 <<" (+/-): ";
+	        		cin >>tanda[i];}
 	        	hasil=0;
-	        	for(k=0;k<n;k++){
-	        		if(tanda[k]=='+'){
-	        		hasil += pow(var[k],pangkat[k]);}
-	        		else if(tanda[k]=='-' or tanda [k]=='_'){
-					hasil -= pow(var[k],pangkat[k]);}
+	        	for(i=0;i<n;i++){
+	        		if(tanda[i]=='+'){
+	        		hasil += pow(var[i],pangkat[i]);}
+	        		else if(tanda[i]=='-' or tanda [i]=='_'){
+					hasil -= pow(var[i],pangkat[i]);}
 				}
 	        	cout << "Hasil: " << hasil << endl << endl;
 	        	break;
