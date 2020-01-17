@@ -1,5 +1,4 @@
-# Sekolah-URO_Programming_Sekolah-URO_Programming
-Tugas URO Day 2
+# Tugas URO Day 2
 
 ## Team
 1. Christian Gunawan
