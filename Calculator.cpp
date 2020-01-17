@@ -52,9 +52,9 @@ int main()
 	        	break;
 	        case '6':
 	        	int n,i;
-	        	int hasil;
-	        	int var[100];
-	        	int pangkat[100];
+	        	float hasil;
+	        	float var[100];
+	        	float pangkat[100];
 	        	char tanda[100];
 	        	cout << "Masukkan jumlah elemen: ";
 	        	cin >> n;
