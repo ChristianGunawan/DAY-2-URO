@@ -23,3 +23,5 @@
 > + If you want to use negative, place it after + sign.
 > + Example: x^2 - 2x^5 -> **x2+-2x5**
 > + Don't use any space.
+> + Don't use non integers power.
+> + Example Power: 1,2,3,4,...,9999
