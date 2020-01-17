@@ -14,7 +14,6 @@ Tugas URO Day 2
 >  - Return the result in number with specified x
 
 ## Tutorial: Polynomial Derivatives
-- ReturnFunction.cpp
 1. Type the equation.
 > Equation must be a polynomial.
 2. Equation Writting Rules.
