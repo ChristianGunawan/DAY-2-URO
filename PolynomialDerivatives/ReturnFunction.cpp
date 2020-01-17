@@ -6,6 +6,10 @@
 #include <sstream>
 using namespace std;
 
+//
+// Please read README.md for the tutorial of using this program.
+//
+
 void split(const string& s, char c,
            vector<string>& v) {
    string::size_type i = 0;
@@ -51,7 +55,7 @@ float getPower(string f){
 }
 
 string dx(float power, float constant){
-	if (power == 0) return "0";
+	if (power == 0 || constant == 0) return "0";
 	constant *= power;
 	power -= 1;
 	
@@ -90,5 +94,6 @@ int main() {
       if(i+1 < lfx.size()) cout << '+';
    }
    cout << '\n';
+   
    main();
 }
