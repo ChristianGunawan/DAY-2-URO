@@ -1,9 +1,9 @@
 # Tugas URO Day 2
 
-## Team
-1. Christian Gunawan
-2. Sidartha Prastya
-3. Steven Nataniel
+## Team (NIM Order)
+1. Steven Nataniel / 16519015
+2. Sidartha Prastya / 16519405
+3. Christian Gunawan / 16519483
 
 ## Features 
 1. Simple Calculator
