@@ -6,10 +6,6 @@
 #include <sstream>
 using namespace std;
 
-//
-// Please read README.md before using this program.
-//
-
 void split(const string& s, char c,
            vector<string>& v) {
    string::size_type i = 0;
@@ -89,10 +85,16 @@ int main() {
    cin >> fxstr;
    
    split(fxstr, '+', lfx);
-   for (int i = 0; i < lfx.size(); ++i) {
-      cout << dx(lfx[i]);
-      if(i+1 < lfx.size()) cout << '+';
-   }
+   if (lfx.size() > 0){
+	   for (int i = 0; i < lfx.size(); ++i) {
+	      cout << dx(lfx[i]);
+	      if(i+1 < lfx.size()) cout << '+';
+	   }
+	}
+	
+	if (lfx.size() == 0){
+		cout << dx(fxstr);
+	}
    cout << '\n';
    
    main();
