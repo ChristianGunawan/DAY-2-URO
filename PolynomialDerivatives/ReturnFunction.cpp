@@ -54,7 +54,7 @@ string dx(float power, float constant){
 	if (power == 0) return "0";
 	constant *= power;
 	power -= 1;
-	//cout << constant + '\n' + power;
+	
 	string result, consstr, powstr;
 	stringstream pow,cons;
 	
@@ -90,6 +90,5 @@ int main() {
       if(i+1 < lfx.size()) cout << '+';
    }
    cout << '\n';
-   //cout << '\n' + dx(getPower(fx), getConstant(fx)) + "\n\n";
    main();
 }
