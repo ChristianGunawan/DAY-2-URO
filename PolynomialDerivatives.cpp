@@ -6,6 +6,14 @@
 #include <sstream>
 using namespace std;
 
+//
+//
+//
+// Please read README.md before using this program.
+//
+//
+//
+
 void split(const string& s, char c,
            vector<string>& v) {
    string::size_type i = 0;
@@ -21,6 +29,7 @@ void split(const string& s, char c,
    }
 }
 // Fungsi split diambil dari https://www.oreilly.com/library/view/c-cookbook/0596007612/ch04s07.html
+// Cuman fungsi ini aja :)
 
 float getConstant(string f){
 	vector<string> a;
