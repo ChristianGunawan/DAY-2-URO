@@ -9,8 +9,7 @@
 1. Simple Calculator
 > Process 2 numbers.
 2. Polynomial Derivatives Calculator
->  - Return the derivatives function
->  - Return the result in number with specified x
+> Return the derivatives function
 
 ## Tutorial: Polynomial Derivatives
 1. Type the equation.
