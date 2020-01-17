@@ -7,7 +7,7 @@
 using namespace std;
 
 //
-// Please read README.md for the tutorial of using this program.
+// Please read README.md before using this program.
 //
 
 void split(const string& s, char c,
