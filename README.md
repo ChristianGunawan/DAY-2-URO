@@ -9,8 +9,6 @@ Tugas URO Day 2
 ## Features 
 1. Simple Calculator
 > Process 2 numbers.
-2. Complex Calculator
-> Calculate bunch of numbers.
-3. Polynomial Derivatives Calculator
+2. Polynomial Derivatives Calculator
 >  - Return the derivatives function
 >  - Return the result in number with specified x
